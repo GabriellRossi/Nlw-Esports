@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+  width: 1200px;
+  background-color: #121214;
+}
+
+main {
+  max-width: 580px;
+  margin-inline: auto;
+  flex-direction: column;
+  border: 2px solid red;
+}
+
+section {
+  display: flex;
+}
+
+header img {
+  margin-block: 32px;
+  border-radius: 99999px;
+  width: 120px;
+}
+
+.meus-jogos {
+  width: 580px;
+  background-color: #2a2634;
+  margin-bottom: 24px;
+}
+
+div {
+  margin: 24px 32px;
+}
+
+div h2 {
+  font-size: 24px;
+  color: white;
+  font-weight: 900;
+  
+}
+
+div p {
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: -0.18px;
+  color: #a1a1aa;
+}
+
+.games-list,
+.channel-list {
+  width: 302px;
+  display: flex;
+  list-style: none;
+  gap: 16px;
+  align-items: center;
+  padding: 0;
+}
+
+.games-list li a img {
+  width: 90px;
+  border-radius: 9px;
+}
+
+.channel-list {
+  width: 328px;
+}
+
+.channel-list a img {
+  width: 70px;
+  height: 70px;
+  border-radius: 999px;
+}
