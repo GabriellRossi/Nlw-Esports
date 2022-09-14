@@ -88,3 +88,9 @@ section ul {
   width: 70px;
   border-radius: 50%;
 }
+
+linkedin {
+  width: 32px;
+  height: 32px;
+  fill: red;
+}
