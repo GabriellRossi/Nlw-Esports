@@ -9,7 +9,6 @@
 </p>
 
 <br>
-<br>
 
 <p align="center">
   <img alt="" src=".github/preview-desktop.png" width="100%">
