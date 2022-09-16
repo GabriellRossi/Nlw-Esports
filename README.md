@@ -3,14 +3,16 @@
 </h1>
 
 <p align="center">
-  <img alt="" src=".github/preview-desktop.png" width="100%">
-</p>
-
-<p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-inspiração">Inspiração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
+<br>
+<br>
+
+<p align="center">
+  <img alt="" src=".github/preview-desktop.png" width="100%">
 </p>
 
 <br>
