@@ -1,9 +1,9 @@
 <h1 align="center">
-  NLW Esports
+  NLW eSports - Trilha Explorer
 </h1>
 
 <p align="center">
-  <img alt="" src=".github/preview.png" width="100%">
+  <img alt="" src=".github/preview-desktop.png" width="100%">
 </p>
 
 <p align="center">
@@ -28,11 +28,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto:
 
-Live Preview: https://nlw-esports-theta.vercel.app/
+[🔗 Clique aqui para acessar](https://nlw-esports-theta.vercel.app/)
 
 ## 🎨 Inspiração:
 
-https://www.figma.com/file/IhyEeBBb92cUEm8lCCNSuf/NLW-eSports-(Community)
+[🔗 FIGMA](<https://www.figma.com/file/IhyEeBBb92cUEm8lCCNSuf/NLW-eSports-(Community)>)
 
 ## :memo: Licença
 
