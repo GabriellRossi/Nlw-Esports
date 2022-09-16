@@ -13,12 +13,6 @@
 
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/forks/GabriellRossi/Nlw-Esports?label=forks&message=MIT&color=5822b4&labelColor=991eeb" alt="Forks">
-
-  <img src="https://img.shields.io/github/stars/GabriellRossi/Nlw-Esports?label=stars&message=MIT&color=5822b4&labelColor=991eeb " alt="Stars">
-</p>
-
 <br>
 
 <p align="center">
