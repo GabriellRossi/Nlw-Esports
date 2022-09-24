@@ -27,11 +27,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 
-## 🚧 Projeto:
+## 🚧 Projeto
 
 [🔗 Clique aqui para acessar](https://nlw-esports-theta.vercel.app/)
 
-## 🎨 Inspiração:
+## 🎨 Inspiração
 
 [🔗 FIGMA](<https://www.figma.com/file/IhyEeBBb92cUEm8lCCNSuf/NLW-eSports-(Community)>)
 
